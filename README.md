@@ -1,0 +1,1 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Alabuja/udacity_project_4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Alabuja/udacity_project_4/tree/master)
